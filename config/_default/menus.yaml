@@ -7,6 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Data Stories
+    url: `#project'
+    weight: 15
   - name: CV
     url: uploads/cv.pdf
     weight: 20
