@@ -3,7 +3,7 @@ widget: portfolio
 id: projects
 title: Data Stories
 content:
-  title:
+  title: Data Stories
   filters:
     folders:
       - project
