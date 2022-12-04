@@ -23,7 +23,7 @@ content:
       tag: SD
     - name: Social Safety Net
       tag: SSN
-    - name: Data Viz
+    - name: Data Visualization
       tag: DV
     - name: Working Papers
       tag: WP
