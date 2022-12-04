@@ -1,4 +1,5 @@
 ---
+widget: portfolio
 id: projects
 content:
   title: Projects
