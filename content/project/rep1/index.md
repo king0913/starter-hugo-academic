@@ -6,5 +6,6 @@ image:
 summary: This report examines older households’ sources of income, the amounts of this income, and how much each source of income contributes to total income.
 tags:
 - REP
+- SSN
 title: 'Income Sources of Older Households: 2017'
 ---
