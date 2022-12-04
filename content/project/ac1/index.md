@@ -5,6 +5,6 @@ image:
   focal_point: Smart
 summary: Those With a High School Diploma or Less Make Up Majority of Government Assistance Recipients
 tags:
-- America Counts
+- AC
 title: 'More Than One in Seven Social Safety Net Recipients in 2017 Were College Graduates'
 ---
