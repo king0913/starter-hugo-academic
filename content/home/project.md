@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-id: projects
+headless: true
 title: Research
 content:
   title: Research
@@ -14,10 +14,10 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  buttons:
+  filter_button:
     - name: All
       tag: '*'
-    - name: Social Safety Net
+    - name: America Counts
       tag: AC
     - name: Student Debt
       tag: SD
