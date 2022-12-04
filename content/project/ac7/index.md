@@ -6,5 +6,7 @@ image:
 summary: Updated Census Bureau Tool Provides More Details on Who Received Public Program Benefits in 2020
 tags: 
 - AC
+- DV
+- SSN
 title: 'How Marital Status and Children Affect Social Safety Net Participation'
 ---
