@@ -1,8 +1,9 @@
 ---
 widget: portfolio
 id: projects
+title: Data Stories
 content:
-  title: Data Stories
+  title:
   filters:
     folders:
       - project
