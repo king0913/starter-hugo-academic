@@ -17,11 +17,11 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'U.S. Census Bureau'
+    description: 'Sociologist and demographer with research and teaching experience across a wide range of topics including social stratification, social demography, family, education, statistics, and survey methodology'
+    twitter: '_mdking'
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-135105321-1'
     baidu_tongji: ''
   verification:
     google: ''
