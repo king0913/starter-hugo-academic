@@ -76,6 +76,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a sociologist and demographer with research and teaching experience across a wide range of topics including social stratification, social demography, family, education, statistics, and survey methodology. My research broadly examines how social mobility and educational attainment are related to family formation processes, including marriage and assortative mating. 
+I am a sociologist and demographer at the US Census Bureau. My interests include social stratification, the social safety net, family demography, education, survey methodology, and data visualization. My research has examined how social mobility and educational attainment are related to marriage and assortative mating, student debt and its relationships with other household debt, and who participates in the various social safety net programs. 
 
-{style="text-align: justify;"}
