@@ -5,6 +5,7 @@ headless: true
 weight: 10
 title: Welcome
 active: true
+author = admin
 design:
   columns: "2"
   background:
