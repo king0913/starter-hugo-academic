@@ -4,7 +4,7 @@ external_link: https://www.census.gov/library/stories/2021/10/what-happens-when-
 image:
   focal_point: Smart
 summary: One in Six Older Americans Received Needs-Based Assistance Even Before Pandemic
-tags:
+tags: AC
 - ccp
 title: 'What Happens When Older Adults Struggle to Make Ends Meet?'
 ---
