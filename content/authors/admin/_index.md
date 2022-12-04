@@ -26,7 +26,7 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Stratification
+  - Social Stratification
   - Family Demography
   - Social Safety Net
   - Survey Methodology
