@@ -5,6 +5,6 @@ image:
   focal_point: Smart
 summary: *Demography* (2021) 58 (6): 2265–2289.
 tags:
-- ccp
+- PR
 title: 'College as a Great Equalizer? Marriage and Assortative Mating Among First- and Continuing-Generation College Students'
 ---
