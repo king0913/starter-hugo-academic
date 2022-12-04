@@ -5,11 +5,13 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.avatar
+  - block: about
+    headless: true
     id: about
+    title: Welcome
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: 'admin'
       # Override your bio text from `authors/admin/_index.md`?
       text:
 ---
