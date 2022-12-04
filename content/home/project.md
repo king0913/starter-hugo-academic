@@ -17,10 +17,10 @@ content:
   buttons:
     - name: All
       tag: '*'
-    - name: America Counts
+    - name: Social Safety Net
       tag: AC
-    - name: Other
-      tag: Demo
+    - name: Student Debt
+      tag: SD
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
