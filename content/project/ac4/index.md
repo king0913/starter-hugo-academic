@@ -6,5 +6,6 @@ image:
 summary: One in Six Older Americans Received Needs-Based Assistance Even Before Pandemic
 tags:
 - AC
+- SSN
 title: 'What Happens When Older Adults Struggle to Make Ends Meet?'
 ---
