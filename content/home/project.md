@@ -25,9 +25,9 @@ content:
       tag: SSN
     - name: Data Viz
       tag: DV
-    - name: Working Paper
+    - name: Working Papers
       tag: WP
-    - name: Report
+    - name: Reports
       tag: REP
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
