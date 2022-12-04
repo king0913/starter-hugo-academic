@@ -6,5 +6,7 @@ image:
 summary: New Interactive Data Tool Shows Characteristics of Those Who Receive Assistance From Government Programs
 tags:
 - AC
+- DV
+- SSN
 title: 'Who Is Receiving Social Safety Net Benefits?'
 ---
