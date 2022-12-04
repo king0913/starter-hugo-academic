@@ -5,6 +5,6 @@ image:
   focal_point: Smart
 summary: Nearly a Third of Children Who Receive SNAP Participate in Two or More Additional Programs
 tags:
-- America Counts
+- AC
 title: 'Most Children Receiving SNAP Get at Least One Other Social Safety Net Benefit'
 ---
