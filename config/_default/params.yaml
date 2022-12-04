@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: 'U.S. Census Bureau'
     description: 'Sociologist and demographer with research and teaching experience across a wide range of topics including social stratification, social demography, family, education, statistics, and survey methodology'
-    twitter:
+    twitter: _mdking
   analytics:
     google_analytics: 'UA-135105321-1'
     baidu_tongji: ''
@@ -33,10 +33,10 @@ header:
   navbar:
     enable: true
     align: r
-    show_logo: true
+    show_logo: false
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
 # Site footer
@@ -68,6 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
+    enable: false
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: main
