@@ -3,6 +3,7 @@
 title: Welcome
 date: 2022-10-24
 type: landing
+active: false
 
 sections:
   - block: about.avatar
