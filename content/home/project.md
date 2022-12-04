@@ -17,7 +17,7 @@ content:
     - name: All
       tag: '*'
     - name: America Counts
-      tag: America Counts
+      tag: AC
     - name: Other
       tag: Demo
 design:
