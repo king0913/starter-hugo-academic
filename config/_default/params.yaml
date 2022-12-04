@@ -32,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    align: l
     twitter: false
     show_logo: false
     show_language: false
