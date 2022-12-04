@@ -33,8 +33,7 @@ header:
   navbar:
     enable: true
     align: l
-    twitter: false
-    show_logo: false
+    show_logo: true
     show_language: false
     show_day_night: true
     show_search: false
