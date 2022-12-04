@@ -17,10 +17,18 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: America Counts
+    - name: Data Stories
       tag: AC
     - name: Student Debt
       tag: SD
+    - name: Social Safety Net
+      tag: SSN
+    - name: Data Viz
+      tag: DV
+    - name: Working Paper
+      tag: WP
+    - name: Report
+      tag: REP
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
