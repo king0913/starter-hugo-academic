@@ -7,5 +7,6 @@ summary: New Interactive Data Tool Shows Sources of Personal Income for Hundreds
 tags:
 - AC
 - SSN
+- DV
 title: 'What Sources of Income Do People Rely On?'
 ---
