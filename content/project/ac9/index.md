@@ -7,5 +7,6 @@ summary: New Interactive Data Tool Shows How Programs and Expenses Affect Povert
 tags:
 - AC
 - SSN
+- DV
 title: 'How Do Policies and Expenses Affect Supplemental Poverty Rates?'
 ---
