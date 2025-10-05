@@ -76,5 +76,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a sociologist and demographer at the US Census Bureau. My interests include social stratification, the social safety net, family demography, education, survey methodology, and data visualization. My research has examined how social mobility and educational attainment are related to marriage and assortative mating, student debt and its relationships with other household debt, and who participates in the various social safety net programs. 
+I am a sociologist and demographer at the U.S. Census Bureau. My interests include social stratification, the social safety net, family demography, education, survey methodology, and data visualization. My research has examined how social mobility and educational attainment are related to marriage and assortative mating, student debt and its relationships with other household debt, and who participates in various social safety net programs. 
 
