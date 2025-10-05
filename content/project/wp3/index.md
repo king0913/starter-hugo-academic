@@ -7,5 +7,5 @@ summary: How does the American social safety net support single people? We pay p
 tags:
 - WP
 - SSN
-title: 'Singles Safety Net in the United States'
+title: 'Singles\' Safety Net in the United States'
 ---
