@@ -31,6 +31,8 @@ content:
       tag: REP
     - name: Peer Reviewed
       tag: PR
+    - name: Income
+      tag: INC
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
