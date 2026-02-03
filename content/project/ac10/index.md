@@ -8,5 +8,6 @@ tags:
 - AC
 - SSN
 - DV
+- INC
 title: 'What Sources of Income Do People Rely On?'
 ---
