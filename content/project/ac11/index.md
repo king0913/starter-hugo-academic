@@ -6,6 +6,6 @@ image:
 summary: Median Income of Asian and Hispanic Households Rose From 2023 to 2024
 tags:
 - AC
-- SSN
+- INC
 title: 'No Significant Change in Estimated U.S. Median Household Income'
 ---
