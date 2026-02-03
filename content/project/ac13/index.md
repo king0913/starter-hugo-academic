@@ -7,6 +7,6 @@ summary: Median Household Income Increased for Most Race and Hispanic Origin Gro
 tags:
 - AC
 - SSN
-- Income
+- INC
 title: 'How Income Varies by Race and Geography'
 ---
